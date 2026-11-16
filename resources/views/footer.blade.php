@@ -2,7 +2,7 @@
     // TODO: a társ nevét és Neptun-kódját írjátok be!
     $keszitok = [
         ['nev' => 'Kovács Kevin', 'neptun' => 'LXK94M'],
-        ['nev' => 'TÁRS NEVE', 'neptun' => 'NEPTUN'],
+        ['nev' => 'Szabó Ákos', 'neptun' => 'RZXUK4'],
     ];
 @endphp
 <footer class="site-footer">
