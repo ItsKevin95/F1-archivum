@@ -1,5 +1,4 @@
 @php
-    // TODO: a társ nevét és Neptun-kódját írjátok be!
     $keszitok = [
         ['nev' => 'Kovács Kevin', 'neptun' => 'LXK94M'],
         ['nev' => 'Szabó Ákos', 'neptun' => 'RZXUK4'],
