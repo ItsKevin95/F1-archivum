@@ -2,7 +2,6 @@
     <div class="container nav-bar">
         <a href="{{ route('home') }}" class="brand"><span class="brand-flag">🏁</span> F1 Archívum</a>
 
-        {{-- Hamburger menü mobilon (csak CSS) --}}
         <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menü megnyitása">
         <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span><span></span><span></span></label>
 
