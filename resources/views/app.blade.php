@@ -42,5 +42,9 @@
     </head>
     <body class="font-sans antialiased">
         <x-inertia::app />
+
+        <footer style="position:fixed;left:0;right:0;bottom:0;z-index:50;padding:8px 16px;background:#15151d;color:#fff;font:13px/1.4 system-ui,-apple-system,'Segoe UI',sans-serif;text-align:center;">
+            Készítők: Kovács Kevin (LXK94M) – Szabó Ákos (RZXUK4)
+        </footer>
     </body>
 </html>
